@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.6.0",
-    "mangodb": "^1.0.0"
+    "mangodb": "^1.0.0",
+    "mongodb": "4.12"
   }
 }
